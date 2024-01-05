@@ -103,3 +103,16 @@ img{
     align-items: center;
     /* gap: 50px; */
 }
+.main2{
+    width: 100vw;
+    height: 300px;
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.quote{
+    width: 50%; height: 50%;
+    font-size: 36px;
+    font-style: light italic;
+}
