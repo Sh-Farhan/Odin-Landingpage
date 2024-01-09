@@ -52,7 +52,7 @@ nav ul{
 .rightintro{
     width: 550px;
     height: 200px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     background-color: white;
     margin-left: 60px;
 }
@@ -116,3 +116,44 @@ img{
     font-size: 36px;
     font-style: light italic;
 }
+.lastsection{
+    width: 100vw;
+    height: 250px;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.last{
+    width: 70vw;
+    height: 150px;
+    background-color:#3882f6;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.lsec1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.lsec1 button{
+    width: 90px; height: 30px;
+    background-color: #3882f6;
+    color: white;
+    border: 1px solid white;
+    margin-top: 5px;
+}
+.footerend{
+    text-align: center;
+    background-color: #1f2937;
+    color: white;
+    height: 90px; width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
